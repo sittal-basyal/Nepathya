@@ -1,2 +1,2 @@
 # Nepathya
-This is my colege website which I tried to Mimic 
+This is my college website which I tried to Mimic 
